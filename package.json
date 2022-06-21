@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_text",
+  "version": "1.0.0",
+  "description": "test practices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Andrei Ledovskikh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
